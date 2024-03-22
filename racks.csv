@@ -1,0 +1,10 @@
+name,status,location
+Rack-01,Active,New York
+Rack-02,Active,New York
+Rack-03,Active,New York
+Rack-01,Active,London
+Rack-02,Active,London
+Rack-03,Active,London
+Rack-01,Active,Tokyo
+Rack-02,Active,Tokyo
+Rack-03,Active,Tokyo
