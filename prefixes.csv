@@ -1,0 +1,4 @@
+prefix,status,location
+10.10.10.0/24,Active,New York
+10.10.20.0/24,Active,London
+10.10.30.0/24,Active,Tokyo

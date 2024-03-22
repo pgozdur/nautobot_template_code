@@ -1,0 +1,3 @@
+content_types,name
+dcim.device,Spine
+dcim.device,Leaf
