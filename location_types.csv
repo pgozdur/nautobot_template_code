@@ -1,0 +1,2 @@
+name,slug,description,content_types
+Datacenter,datacenter,Datacenter Location Type,dcim.rack

@@ -1,0 +1,4 @@
+name,slug,status,location_type
+New York,new_york,Active,Datacenter
+London,london,Active,Datacenter
+Tokyo,tokyo,Active,Datacenter
