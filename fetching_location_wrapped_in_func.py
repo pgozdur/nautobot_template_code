@@ -3,7 +3,7 @@ import requests
 
 BASE_URL = os.getenv('NAUTOBOT_URL')
 TOKEN = os.getenv('TOKEN')
-LOCATIONS_ENDPOINT = '/api/dcim/locations/'
+LOCATIONS_ENDPOINT = 'api/dcim/locations/'
 
 
 HEADERS = {

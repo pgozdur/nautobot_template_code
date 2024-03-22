@@ -9,7 +9,12 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "args": ["Spine","London","/Users/pawelgozdur/lab/network_reports"],
+            "env": { 
+                "NAUTOBOT_URL": "http://3.70.254.127:8080/",
+                "TOKEN": "hgTf5GBfrsabcdef0123456789abcdTTg511Sdq",
+             }
         }
     ]
 }
